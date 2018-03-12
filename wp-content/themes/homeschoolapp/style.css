@@ -1,0 +1,33 @@
+/*
+Theme Name: Twenty Fifteen
+Theme URI: https://wordpress.org/themes/twentyfifteen/
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+
+*/
+
+
+table.events-table tr th, table.events-table tr td {
+    border: 1px solid !important;
+    padding: 20px!important;
+    margin: 20px;
+}
+.events-details {
+    margin: 31px 0;
+}
+.sidebar ul li {
+    list-style: none;
+    padding: 5px 0;
+    border-bottom: 1px solid #cecece;
+}
+.sidebar h3 {
+    margin-top: 0;
+}
+.sidebar ul {
+    margin: 20px 0;
+    padding-left: 10px;
+}
+.sidebar ul li a {
+    color: #000;
+}
